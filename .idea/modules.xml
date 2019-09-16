@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/../QARC/.idea/QARC.iml" filepath="$PROJECT_DIR$/../QARC/.idea/QARC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mywork/.idea/mywork.iml" filepath="$PROJECT_DIR$/../mywork/.idea/mywork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pensieve.iml" filepath="$PROJECT_DIR$/.idea/pensieve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vmaf/.idea/vmaf.iml" filepath="$PROJECT_DIR$/../vmaf/.idea/vmaf.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/../mywork/.idea/mywork.iml" filepath="$PROJECT_DIR$/../mywork/.idea/mywork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pensieve.iml" filepath="$PROJECT_DIR$/.idea/pensieve.iml" />
+>>>>>>> master
+    </modules>
+  </component>
+</project>
